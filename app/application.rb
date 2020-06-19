@@ -15,3 +15,6 @@ resp.finish
 end
 
 end
+
+
+#to see on webpage: rackup config.ru and copy paste IP into browser
