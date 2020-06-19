@@ -20,3 +20,4 @@ end
 #to see on webpage: rackup config.ru and copy paste IP into browser
 #ip: 67.205.182.198:38944
 #current time = 6:57pm, so it displays "Good Afternoon!"
+#control C to exit 
