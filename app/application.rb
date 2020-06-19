@@ -21,4 +21,4 @@ end
 #ip: 67.205.182.198:38944
 #current time = 6:57pm, so it displays "Good Afternoon!"
 #control C to exit
-#can change it to any text, and it will show up on browser 
+#can change it to any text, and it will show up on browser with the same ip address 
